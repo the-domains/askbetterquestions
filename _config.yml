@@ -1,14 +1,14 @@
-layout_spectrum: 0.2800660531502217
-typography_spectrum: 0.5284524774178863
+layout_spectrum: 0.16437003016471863
+typography_spectrum: 0.5584785332903266
 color:
-  brandStrength: 0.8932105170097202
-  lightness: 0.6087337825447321
-  saturation: 0.44699636613950133
-  rhythmicContrast: 0.4145977876614779
+  brandStrength: 0.2896117949858308
+  lightness: 0.5795800164341927
+  saturation: 0.8094473083037883
+  rhythmicContrast: 0.23613871727138758
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: AskBetterQuestions
