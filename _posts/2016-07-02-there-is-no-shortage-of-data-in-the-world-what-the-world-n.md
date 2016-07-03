@@ -1,7 +1,7 @@
 ---
 description: The scientific case for doodling while taking notes.
-dateModified: '2016-07-02T02:53:04.398Z'
-datePublished: '2016-07-02T02:53:25.179Z'
+dateModified: '2016-07-02T15:41:27.680Z'
+datePublished: '2016-07-03T19:00:45.531Z'
 title: '"There is no shortage of DATA in the world. What the world needs is STORY."'
 author: []
 sourcePath: >-
