@@ -4,7 +4,7 @@
         <description><![CDATA[AskBetterQuestions]]></description>
         <link>https://thegrid.ai/askbetterquestions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 02:58:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2016 17:00:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/askbetterquestions/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA["There is no shortage of DATA in the world. What the world needs is STORY."]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/756d2fef-a44b-40d4-ab10-2e17e638e444.png</link>
             <guid isPermaLink="false">e015fdee-5ddc-4072-8a52-204a88890e80</guid>
             <pubDate>Sat, 02 Jul 2016 02:53:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Infographic: The 6 Types of Millennials]]></title>
+            <description><![CDATA[<article><h1>Infographic: The 6 Types of Millennials</h1><p>By Jordan Teicher There are marketers out there who would sell their vital organs if it meant they could get inside a millennial's brain. Who needs a kidney when you can seduce millions of young people to pay for your bespoke financial services?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5a9591a1f4046a4945da56d78d00f8b7/noop.jpg?input=https%3A%2F%2Fcontently.com%2Fwp-content%2Fuploads%2F2016%2F06%2FASJA_evolution.jpg"></article>]]></description>
+            <link>https://contently.com/strategist/2016/06/29/infographic-6-types-of-millennials/</link>
+            <guid isPermaLink="false">e2d5918e-d174-4cc8-b85f-69e7713e855a</guid>
+            <pubDate>Sun, 03 Jul 2016 17:00:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/askbetterquestions/e6ec3bff-86a3-4a4f-90a1-e64ac5f6d013/index.html</link>
             <guid isPermaLink="false">e6ec3bff-86a3-4a4f-90a1-e64ac5f6d013</guid>
             <pubDate>Sat, 02 Jul 2016 01:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Infographic: The 6 Types of Millennials]]></title>
-            <description><![CDATA[<article><h1>Infographic: The 6 Types of Millennials</h1><p>By Jordan Teicher There are marketers out there who would sell their vital organs if it meant they could get inside a millennial's brain. Who needs a kidney when you can seduce millions of young people to pay for your bespoke financial services?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5a9591a1f4046a4945da56d78d00f8b7/noop.jpg?input=https%3A%2F%2Fcontently.com%2Fwp-content%2Fuploads%2F2016%2F06%2FASJA_evolution.jpg"></article>]]></description>
-            <link>https://contently.com/strategist/2016/06/29/infographic-6-types-of-millennials/</link>
-            <guid isPermaLink="false">e2d5918e-d174-4cc8-b85f-69e7713e855a</guid>
-            <pubDate>Fri, 01 Jul 2016 19:57:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
