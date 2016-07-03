@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-01T19:57:05.589Z'
+datePublished: '2016-07-03T17:00:07.577Z'
+sourcePath: _posts/2016-07-01-infographic-the-6-types-of-millennials.md
 isBasedOnUrl: >-
   https://contently.com/strategist/2016/06/29/infographic-6-types-of-millennials/
 keywords:
@@ -15,7 +16,7 @@ keywords:
   - petersen
 related: []
 author: []
-dateModified: '2016-07-01T17:39:47.132Z'
+dateModified: '2016-07-02T15:40:52.905Z'
 title: 'Infographic: The 6 Types of Millennials'
 app_links: []
 publisher:
@@ -30,7 +31,6 @@ description: >-
   financial services?
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-07-01-infographic-the-6-types-of-millennials.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -38,4 +38,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://contently.com/wp-content/uploads/2016/06/ASJA_evolution.jpg" /><h1>Infographic: The 6 Types of Millennials</h1><p>By Jordan Teicher There are marketers out there who would sell their vital organs if it meant they could get inside a millennial's brain. Who needs a kidney when you can seduce millions of young people to pay for your bespoke financial services?</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5a9591a1f4046a4945da56d78d00f8b7/noop.jpg?input=https%3A%2F%2Fcontently.com%2Fwp-content%2Fuploads%2F2016%2F06%2FASJA_evolution.jpg" /><h1>Infographic: The 6 Types of Millennials</h1><p>By Jordan Teicher There are marketers out there who would sell their vital organs if it meant they could get inside a millennial's brain. Who needs a kidney when you can seduce millions of young people to pay for your bespoke financial services?</p></article>
